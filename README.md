@@ -20,4 +20,4 @@ In this tutorial, we built a Guide App. The app will have a list of guides and a
 
 - [SvelteKit](https://kit.svelte.dev/)
 - [The Net Ninja YT](https://www.youtube.com/@NetNinja)
-- [Project Live Demo]()
+- [Project Live Demo](https://svelte-kit-tutorial-amber.vercel.app/)
